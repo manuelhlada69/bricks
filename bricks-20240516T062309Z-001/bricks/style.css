@@ -1,0 +1,39 @@
+body{
+    background-image: url(slike/pitchhh.jpg);
+    background-size: cover;
+}
+
+#canvas{
+    border: 2px solid black;
+    background-color: white;
+	opacity: 0.9;
+    background-size: 106%;
+    
+}
+#canvas1{
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#canvas2{
+    height: 100px;
+    margin: 0 auto;
+	text-align: center;
+}
+
+button{
+    height: 50px;
+    width: 150px;
+    margin: auto;
+	color: black;
+	opacity: 0.9;
+	font-size: 20px;
+}
+
+#play{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
